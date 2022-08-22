@@ -1,0 +1,5 @@
+- GET /product to get all products data
+- GET /product/{id} to get a product by its ID
+- POST /product to create new product
+- PUT /product/{id} to update a product base on its id
+- ELETE /product/{id} to delete a product base on its id
